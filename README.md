@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Talia77
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development, basic python and machine learning
-- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me taliajanechambers@gmail.com
 
 <!---
