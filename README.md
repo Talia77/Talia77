@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Talia77
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development, basic python and machine learning
-- 📫 How to reach me taliajanechambers@gmail.com
+
 
 <!---
 Talia77/Talia77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
